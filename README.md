@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently learning Python, MySQL, Excel and Power BI<br><br>📊 Interested in Data Analysis and Software Development<br><br>🧠 Improving my English and coding skills every day<br><br>🎯 Goal: Become a Data Analyst / Software Developer
+🌱 Currently learning Python, MySQL, Excel and Power BI<br><br>📊 Interested in Data Analysis and Software Development<br><br>🧠 Improving my English and coding skills every day<br><br>🎯 Goal: Become a Data Analyst / Data Scientist 
 
 
 # 💻 Tech Stack:
